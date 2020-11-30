@@ -1,0 +1,37 @@
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.Form1.resources
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\Alexander\Desktop\Каширина\LAB_1\LAB_1\obj\Debug\LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.Form1.resources
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+C:\Users\Alexander\Desktop\ГОТОВОЕ\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.Cache
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.Form1.resources
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.Cache
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.pdb
+C:\Users\rodio\OneDrive\Рабочий стол\LAB_1\LAB_1\obj\Debug\LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\rodio\Desktop\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\rodio\Desktop\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\rodio\Desktop\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.csprojAssemblyReference.cache
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.Form1.resources
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.cache
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\rodio\Desktop\LAB_1\LAB_1\obj\Debug\LAB_1.pdb
